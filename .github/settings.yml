@@ -1,0 +1,6 @@
+_extends: .github
+
+repository:
+  name: brand
+  description: 🎨 brand files for dependencies.org
+  topics: dependencies, brand
